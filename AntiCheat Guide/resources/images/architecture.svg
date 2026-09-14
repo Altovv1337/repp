@@ -1,0 +1,40 @@
+<svg viewBox="0 0 800 380" xmlns="http://www.w3.org/2000/svg" font-family="Segoe UI, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#8fb3c9"/>
+    </marker>
+  </defs>
+  <rect width="800" height="380" fill="#0f1720" rx="12"/>
+  <text x="400" y="40" text-anchor="middle" font-size="22" fill="#ffffff" font-weight="700">Архитектура обнаружения (упрощённо)</text>
+
+  <g font-size="15" fill="#0f1720">
+    <rect x="40" y="80" width="150" height="80" rx="10" fill="#4fd1c5"/>
+    <text x="115" y="125" text-anchor="middle">Игровой клиент</text>
+
+    <rect x="240" y="80" width="150" height="80" rx="10" fill="#f6ad55"/>
+    <text x="315" y="115" text-anchor="middle">Агент</text>
+    <text x="315" y="135" text-anchor="middle">обнаружения</text>
+
+    <rect x="440" y="80" width="150" height="80" rx="10" fill="#fc8181"/>
+    <text x="515" y="115" text-anchor="middle">Серверная</text>
+    <text x="515" y="135" text-anchor="middle">проверка</text>
+
+    <rect x="640" y="80" width="120" height="80" rx="10" fill="#b794f4"/>
+    <text x="700" y="115" text-anchor="middle">База</text>
+    <text x="700" y="135" text-anchor="middle">данных</text>
+  </g>
+
+  <g stroke="#8fb3c9" stroke-width="3" fill="none" marker-end="url(#arrow)">
+    <line x1="190" y1="120" x2="235" y2="120"/>
+    <line x1="390" y1="120" x2="435" y2="120"/>
+    <line x1="590" y1="120" x2="635" y2="120"/>
+  </g>
+
+  <text x="40" y="220" font-size="16" fill="#ffffff" font-weight="700">Уровни защиты:</text>
+  <g font-size="14" fill="#c9d6df">
+    <text x="40" y="250">• Client-side — проверки на стороне игрока</text>
+    <text x="40" y="275">• Kernel-level — доступ на уровне драйвера ОС</text>
+    <text x="40" y="300">• Server-side — валидация на серверах игры</text>
+    <text x="40" y="325">• ML / эвристика — анализ поведения игрока</text>
+  </g>
+</svg>
