@@ -1,6 +1,6 @@
-# Repository
+# Конспекты "Основы БД"
 
-Навигация
+## Навигация
 - [Основы редактирования текста](/markdown.md)
 - [Mermaid](/mermaid.md)
 - [Task Mermaid](/mermaidtask.md)
