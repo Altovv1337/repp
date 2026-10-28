@@ -8,4 +8,4 @@
 - [Task Mermaid](/mermaidtask.md)
 - [Task AC Guide](/AntiCheat%20Guide/README.md)
 - [Task Bush Scripting](/bashScripting/README.md)
-- [Static project on Github Pages](/github.com/Altovv1337/DeadlockMDSite)
+- [Static project on Github Pages](https://github.com/Altovv1337/DeadlockMDSite)
