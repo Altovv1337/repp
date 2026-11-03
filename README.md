@@ -6,6 +6,7 @@
 - [Bush CLI](/bash_cli.md)
 - [Git Basics](/Git.md)
 - [Docker](/Docker.md)
+- [Welcome To Docker](/Welcome_to_docker.md)
 - [Task Mermaid](/mermaidtask.md)
 - [Task AC Guide](/AntiCheat%20Guide/README.md)
 - [Task Bush Scripting](/bashScripting/README.md)
